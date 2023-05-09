@@ -1,0 +1,53 @@
+[INFO][2023-05-09 09:59:56,554][im.controller.UserController]用户：张三 : zhangsan  登录成功!
+[INFO][2023-05-09 10:00:46,652][im.controller.UserController]用户：李四 : lisi  登录成功!
+[ERROR][2023-05-09 10:00:46,700][im.ws.WS]ws发生错误!
+[INFO][2023-05-09 10:07:48,626][im.controller.UserController]用户：张三 : zhangsan  登录成功!
+[INFO][2023-05-09 10:07:50,361][im.ws.WS]用户108进入ws,当前在线人数为1
+[INFO][2023-05-09 10:08:02,481][im.controller.UserController]用户：李四 : lisi  登录成功!
+[INFO][2023-05-09 10:08:02,529][im.ws.WS]用户109进入ws,当前在线人数为2
+[INFO][2023-05-09 10:08:22,294][im.ws.WS]用户109退出ws,当前在线人数为1
+[INFO][2023-05-09 10:08:22,298][im.controller.UserController]用户：李四 : lisi  登录成功!
+[INFO][2023-05-09 10:08:22,336][im.ws.WS]用户109进入ws,当前在线人数为2
+[INFO][2023-05-09 10:09:07,233][im.ws.WS]用户108退出ws,当前在线人数为1
+[INFO][2023-05-09 10:09:07,238][im.controller.UserController]用户：张三 : zhangsan  登录成功!
+[INFO][2023-05-09 10:09:07,415][im.ws.WS]用户108进入ws,当前在线人数为2
+[INFO][2023-05-09 10:09:49,496][im.ws.WS]单聊-来自客户端的消息:{"avatar":"/images/boy-01.png","type":"friend","content":"你好","timestamp":1683598189491,"time":"2023-05-09 10:09:49","mine":false,"username":"张三","id":108}
+[INFO][2023-05-09 10:10:13,501][im.ws.WS]单聊-来自客户端的消息:{"avatar":"/images/boy-01.png","type":"friend","content":"你好","timestamp":1683598213498,"time":"2023-05-09 10:10:13","mine":false,"username":"李四","id":109}
+[INFO][2023-05-09 10:10:35,811][im.ws.WS]单聊-来自客户端的消息:{"avatar":"/images/boy-01.png","type":"friend","content":"img[/sns/downLoadFile?downLoadPath=G%3A%5CWork%5Cwebsocket-im%5Csrc%5Cmain%5Cwebapp%5Cupload%5Csns%5C108%5C%2F1dcc2818-c8d5-416e-9ace-439a604db37f.png&fileName=2.png]","timestamp":1683598235805,"time":"2023-05-09 10:10:35","mine":false,"username":"张三","id":108}
+[INFO][2023-05-09 10:11:14,995][im.controller.UserController]用户：李四 : lisi  登录成功!
+[INFO][2023-05-09 10:11:14,996][im.ws.WS]用户109退出ws,当前在线人数为1
+[INFO][2023-05-09 10:11:15,031][im.ws.WS]用户109进入ws,当前在线人数为2
+[INFO][2023-05-09 10:11:51,295][im.ws.WS]用户108退出ws,当前在线人数为1
+[INFO][2023-05-09 10:11:51,303][im.controller.UserController]用户：张三 : zhangsan  登录成功!
+[INFO][2023-05-09 10:11:51,383][im.ws.WS]用户108进入ws,当前在线人数为2
+[INFO][2023-05-09 10:12:10,375][im.ws.WS]用户108退出ws,当前在线人数为1
+[INFO][2023-05-09 10:12:10,383][im.controller.UserController]用户：张三 : zhangsan  登录成功!
+[INFO][2023-05-09 10:12:10,477][im.ws.WS]用户108进入ws,当前在线人数为2
+[INFO][2023-05-09 10:12:49,990][im.ws.WS]用户109退出ws,当前在线人数为1
+[INFO][2023-05-09 10:12:49,993][im.controller.UserController]用户：李四 : lisi  登录成功!
+[INFO][2023-05-09 10:12:50,026][im.ws.WS]用户109进入ws,当前在线人数为2
+[INFO][2023-05-09 10:14:39,958][im.ws.WS]用户108退出ws,当前在线人数为1
+[INFO][2023-05-09 10:14:39,965][im.controller.UserController]用户：张三 : zhangsan  登录成功!
+[INFO][2023-05-09 10:14:40,056][im.ws.WS]用户108进入ws,当前在线人数为2
+[INFO][2023-05-09 10:14:44,645][im.ws.WS]单聊-来自客户端的消息:{"avatar":"/images/boy-01.png","type":"friend","content":"hai","timestamp":1683598484643,"time":"2023-05-09 10:14:44","mine":false,"username":"张三","id":108}
+[INFO][2023-05-09 10:15:03,068][im.ws.WS]单聊-来自客户端的消息:{"avatar":"/images/boy-01.png","type":"friend","content":"111","timestamp":1683598503063,"time":"2023-05-09 10:15:03","mine":false,"username":"张三","id":108}
+[INFO][2023-05-09 10:16:25,835][im.controller.UserController]用户：王五 : wangwu  登录成功!
+[INFO][2023-05-09 10:16:25,924][im.ws.WS]用户110进入ws,当前在线人数为3
+[INFO][2023-05-09 10:16:40,250][im.ws.WS]用户110退出ws,当前在线人数为2
+[INFO][2023-05-09 10:16:40,261][im.controller.UserController]用户：王五 : wangwu  登录成功!
+[INFO][2023-05-09 10:16:40,329][im.ws.WS]用户110进入ws,当前在线人数为3
+[INFO][2023-05-09 10:17:22,401][im.ws.WS]单聊-来自客户端的消息:{"avatar":"/images/girl-01.png","type":"friend","content":"嗨","timestamp":1683598642400,"time":"2023-05-09 10:17:22","mine":false,"username":"王五","id":110}
+[INFO][2023-05-09 10:17:45,968][im.ws.WS]用户108退出ws,当前在线人数为2
+[INFO][2023-05-09 10:17:45,974][im.controller.UserController]用户：张三 : zhangsan  登录成功!
+[INFO][2023-05-09 10:17:46,052][im.ws.WS]用户108进入ws,当前在线人数为3
+[INFO][2023-05-09 10:18:41,138][im.controller.UserController]用户：赵六 : zhaoliu  登录成功!
+[INFO][2023-05-09 10:18:41,188][im.ws.WS]用户111进入ws,当前在线人数为4
+[INFO][2023-05-09 10:19:13,088][im.ws.WS]用户111退出ws,当前在线人数为3
+[INFO][2023-05-09 10:19:13,093][im.controller.UserController]用户：赵六 : zhaoliu  登录成功!
+[INFO][2023-05-09 10:19:13,151][im.ws.WS]用户111进入ws,当前在线人数为4
+[INFO][2023-05-09 10:19:55,880][im.ws.WS]用户108退出ws,当前在线人数为3
+[INFO][2023-05-09 10:19:55,885][im.controller.UserController]用户：张三 : zhangsan  登录成功!
+[INFO][2023-05-09 10:19:55,964][im.ws.WS]用户108进入ws,当前在线人数为4
+[INFO][2023-05-09 10:21:34,893][im.ws.WS]用户110退出ws,当前在线人数为3
+[INFO][2023-05-09 10:21:34,900][im.controller.UserController]用户：王五 : wangwu  登录成功!
+[INFO][2023-05-09 10:21:34,969][im.ws.WS]用户110进入ws,当前在线人数为4
